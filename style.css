@@ -1,0 +1,17 @@
+h1{
+    color: rgb(16, 16, 207);
+    background-color: rgb(132, 132, 236);
+}
+
+.firsth2{
+    color: blueviolet;
+}
+
+.thirdh2{
+    color: orangered;
+    background-color: yellow;
+}
+
+.fourthh2{
+    background-color: rgb(100, 233, 100);
+}
